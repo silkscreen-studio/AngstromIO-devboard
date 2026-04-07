@@ -12,7 +12,7 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embedded in
   <img alt="AIO demo gif" src="https://github.com/user-attachments/assets/e32076a6-1042-43d7-b61c-d9b781b1d239" width="21.18%"/>
 </p>
 <p align="center">
-  <img alt="IOX-77 LOGO" src="IMG/AngstromIO logo.png" width="33.8%"/> 
+  <img alt="AIO LOGO" src="IMG/AngstromIO logo.png" width="33.8%"/> 
   <img alt="ALL demo gif" src="Demo AIO CH32 and programmer LOW Q.gif" width="57.7%"/>
 </p>
 <br><br>
