@@ -1,5 +1,5 @@
 # AngstromIO-devboard
-
+ 
 AngstromIO is one of the smallest devboards out there, barely longer than a USB-C connector, based on the Attiny1616 MCU. 2 GPIOs as well as I2C lines are broken out. 
 I made a dual CH340 programming board too, both for UPDI programming and debugging (one way Serial Communication). 
 I also designed a breadboard friendly, experimentation board for the CH32V003, with a 5x4 charlieplexed LED matrix.
